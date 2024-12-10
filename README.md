@@ -7,6 +7,9 @@ Team :
 - Antoine Maes
 - Louis Lecouturier
 
+Teacher :
+- Hazem Wannous : hazem.wannous@univ-lille.fr
+
 Original dataset : https://github.com/hukenovs/hagrid?tab=readme-ov-file (No Gesture version)
 
 Dataset Watermarked : https://drive.google.com/drive/folders/19uRZ9-qzWo87gAdq3nTOx-J3C33dZP5J?usp=drive_link
