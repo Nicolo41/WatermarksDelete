@@ -17,3 +17,5 @@ Dataset Watermarked : https://drive.google.com/drive/folders/19uRZ9-qzWo87gAdq3n
 ![Lighthouse](data/lighthouse.png)
 ![Watermark](data/watermarks.png)
 ![Lighthouse watermarked](data/lighthouse_watermarked.png)
+
+## Créer le dataset train et valid : '''set_dataset/py''' 
