@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "watermarksremover"
+version = "0.1.0"
+description = "A tool to remove watermarks from images and upscale them"
+authors = ["Louis Lecouturier <71454059+LouisLecouturier@users.noreply.github.com>", "Nicolas Broage <72193849+Nicolo41@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tensorflow = "^2.16.2"
+opencv-python = "^4.10.0.84"
+matplotlib = "^3.10.0"
+scikit-learn = "^1.6.0"
+keras = "^3.7.0"
+tqdm = "^4.67.1"
+pandas = "^2.2.3"
+torch = "^2.4.0"
+diffusers = {extras = ["torch"], version = "^0.31.0"}
+transformers = "^4.47.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
