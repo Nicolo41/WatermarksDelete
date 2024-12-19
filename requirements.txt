@@ -10,3 +10,4 @@ tqdm~=4.67.1
 torch~=2.4.0
 transformers~=4.47.1
 diffusers[torch]~=0.31.0
+scikit-learn==1.6.0
