@@ -2,7 +2,7 @@
 name = "watermarksremover"
 version = "0.1.0"
 description = "A tool to remove watermarks from images and upscale them"
-authors = ["Louis Lecouturier <71454059+LouisLecouturier@users.noreply.github.com>", "Nicolas Broage <72193849+Nicolo41@users.noreply.github.com>"]
+authors = ["Louis Lecouturier <71454059+LouisLecouturier@users.noreply.github.com>", "Nicolas Broage <72193849+Nicolo41@users.noreply.github.com>", "Antoine Maes <92756820+antoine-maes@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
